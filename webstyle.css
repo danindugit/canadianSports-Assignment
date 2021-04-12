@@ -138,3 +138,12 @@ footer{
     padding-bottom: 5px;
     margin-top: 15px;
 }
+
+.four-img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    display: block;
+    height: 100px;
+}
